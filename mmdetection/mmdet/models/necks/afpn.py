@@ -236,6 +236,7 @@ class BlockBody(nn.Module):
             BasicBlock(channels[0], channels[0]),
             BasicBlock(channels[0], channels[0]),
             BasicBlock(channels[0], channels[0]),
+            BasicBlock(channels[0], channels[0]),
         )
         self.blocks_scaleone2 = nn.Sequential(
             BasicBlock(channels[1], channels[1]),
