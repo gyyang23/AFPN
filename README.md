@@ -69,7 +69,7 @@ Results on MS COCO val2017
 |      Detector        |  Backbone  | Image size | GFLOPs | Params (M) |  AP  | AP<sub>0.5</sub> | AP<sub>0.75</sub> |   Weight   |
 |----------------------|------------|------------|--------|------------|------|------------------|-------------------|------------|
 | Faster R-CNN + FPN   | ResNet-50  | 640 x 640  |  91.3  |    41.8    | 37.4 |       57.3       |       40.3        |    None    |
-| Faster R-CNN + AFPN  | ResNet-50  | 640 x 640  |  89.3  |    49.8    | 38.9 |       57.4       |       42.1        | [Link]()   |
+| Faster R-CNN + AFPN  | ResNet-50  | 640 x 640  |  89.7  |    49.8    | 39.0 |       57.6       |       42.0        | [Link](https://drive.google.com/file/d/1P7diJ01i88LSBrJ83ELAExjyY4xQULpu/view?usp=sharing)   |
 
 Citations
 ------------
