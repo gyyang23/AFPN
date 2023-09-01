@@ -11,6 +11,7 @@ Environment
 mmengine==0.7.3
 mmcv==2.0.0
 mmdet==3.0.0
+mmyolo==0.5.0
 ```
 
 Install
@@ -70,6 +71,9 @@ Results on MS COCO val2017
 |----------------------|------------|------------|--------|------------|------|------------------|-------------------|------------|
 | Faster R-CNN + FPN   | ResNet-50  | 640 x 640  |  91.3  |    41.8    | 37.4 |       57.3       |       40.3        |    None    |
 | Faster R-CNN + AFPN  | ResNet-50  | 640 x 640  |  89.7  |    49.8    | 39.0 |       57.6       |       42.0        | [Link](https://drive.google.com/file/d/1P7diJ01i88LSBrJ83ELAExjyY4xQULpu/view?usp=sharing)   |
+|YOLOv5-n + YOLOv5PAFPN| CSPDarknet | 640 x 640  |  2.26  |    1.87    | 28.0 |       45.9       |       29.4        | [Link](https://drive.google.com/file/d/19n7_jYsvelEzyHAqen6jRE1zAm0CcPvV/view?usp=sharing)   |
+|YOLOv5-n + YOLOv5AFPN | CSPDarknet | 640 x 640  |  2.18  |    1.67    | 29.1 |       45.8       |       30.7        | [Link](https://drive.google.com/file/d/197HsYpAgZ5Tt02UnjgIXgNJL8zyvssir/view?usp=sharing)   |
+
 
 Citations
 ------------
