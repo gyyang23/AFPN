@@ -53,7 +53,7 @@ see more details at [mmdetection](https://github.com/open-mmlab/mmdetection).
 Testing
 -----------
 ```shell
-CUDA_VISIBLE_DEVICES=0 _DEVICES=1 python ./mmdetection/tools/test.py faster-rcnn_r50_afpn_1x_coco.py <CHECKPOINT_FILE>
+CUDA_VISIBLE_DEVICES=0 python ./mmdetection/tools/test.py faster-rcnn_r50_afpn_1x_coco.py <CHECKPOINT_FILE>
 ```
 
 For example,
