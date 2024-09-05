@@ -86,3 +86,13 @@ If you find AFPN useful in your research, please consider citing:
   year={2023}
 }
 ```
+or
+```
+@article{yang2024asymptotic,
+  title={Asymptotic Feature Pyramid Network for Labeling Pixels and Regions},
+  author={Yang, Guoyu and Lei, Jie and Tian, Hao and Feng, Zunlei and Liang, Ronghua},
+  journal={IEEE Transactions on Circuits and Systems for Video Technology},
+  year={2024},
+  publisher={IEEE}
+}
+```
